@@ -83,6 +83,7 @@ ol li .img-wrapper img {
 @media (max-width: 640px) {
   .container {
     padding: 0 1em;
+    background-color: red;
   }
   .container h3 {
     font-size: 1.2em;
