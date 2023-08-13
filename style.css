@@ -80,6 +80,10 @@ ol li .img-wrapper img {
   }
   
 }
+
+.player{
+  width: 90%;
+}
 @media (max-width: 640px) {
   .container {
     padding: 0 1em;
@@ -97,6 +101,7 @@ ol li .img-wrapper img {
     font-size: 1.1em;
     font-weight: 600;
   }
+
   
   ol li .img-wrapper {
     width: 100%;
@@ -105,6 +110,9 @@ ol li .img-wrapper img {
   ol li .img-wrapper img{
     object-fit: contain;
     border-radius: 1em;
+  }
+  .player{
+    width: 100%;
   }
 
 }
